@@ -2,5 +2,9 @@
 2
 3
 4
+<<<<<<< HEAD
 56565
 fdsfsdfdsf
+=======
+dfjkdfjdkf
+>>>>>>> 실험
